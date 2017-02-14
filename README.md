@@ -7,6 +7,7 @@
 ![Image](item_layout_sample.png)  
 You have to show movie image, movie name and release date.  
 [Final app should look like this](https://github.com/pengrad/CoccocTestApp/blob/master/app_screenshot.jpg)
+- __Please pay special attention to cleanliness and organization of your code__
 - Send a pull request or project link to HR. We will review your app and come back to you.
 
 ### Advanced (will be a huge plus)
