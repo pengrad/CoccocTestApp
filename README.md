@@ -2,7 +2,7 @@
 
 ### Steps to take a part
 - Fork this repo with the existing Android app
-- Fetch list of movies showing in CGV cinemas using this API https://www.cgv.vn/api/movie/list
+- Fetch list of movies showing in CGV cinemas using this API https://www.cgv.vn/api/movie/listSneakShow?cat=2
 - Put all of them in MainActivity inside RecyclerView with this layout
 ![Image](item_layout_sample.png)  
 You have to show movie image, movie name and release date.  
