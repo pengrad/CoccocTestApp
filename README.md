@@ -16,3 +16,4 @@ You are welcome to wrap network requests with Retrofit and use any library for i
 
 - Open movie screen by clicking on list item https://www.cgv.vn/api/movie/movie/id/{movie_id}
 You can create your own design of this screen.
+.
